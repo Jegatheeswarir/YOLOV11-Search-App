@@ -82,8 +82,10 @@ Local URL: http://localhost:8501
 <img width="1219" height="576" alt="image" src="https://github.com/user-attachments/assets/8ee8a344-1d02-4109-8711-b99d6fe7c44b" />
 
 ## Object Detection Output
-<img width="1078" height="611" alt="image" src="https://github.com/user-attachments/assets/f3c8306c-b9e4-41b8-9ee8-006682fa27f4" />
-<img width="1075" height="605" alt="image" src="https://github.com/user-attachments/assets/473f3f55-3d16-454d-abfd-465ec2de0757" />
+<img width="1818" height="802" alt="image" src="https://github.com/user-attachments/assets/7fa196cf-2d3f-4abd-ae66-6620252255e2" />
+<img width="1709" height="521" alt="image" src="https://github.com/user-attachments/assets/9f9faf94-6d92-4045-ad64-96bb37596564" />
+<img width="1812" height="518" alt="image" src="https://github.com/user-attachments/assets/b7621d1f-a1e1-410e-a6d3-b036dbd8e0ad" />
+
 
 # RESULT
 The YOLO Image Search System successfully performs object detection, metadata generation, and image retrieval using YOLOv11.
