@@ -48,40 +48,40 @@ instructions.txt
 app.py
 ```
 # GPU Installation Steps
-# Step 1 – Create Conda Environment
+## Step 1 – Create Conda Environment
 ```
 conda create -n yolo-image-search-gpu python=3.11 -y
 ```
-# Step 2 – Activate Environment
+## Step 2 – Activate Environment
 ```
 conda activate yolo-image-search-gpu
 ```
-# Step 3 – Install PyTorch with CUDA Support
+## Step 3 – Install PyTorch with CUDA Support
 ```
 conda install pytorch torchvision pytorch-cuda=12.4 -c pytorch -c nvidia
 ```
-# Step 4 – Install Project Dependencies
+## Step 4 – Install Project Dependencies
 ```
 pip install -r requirements.txt
 ```
 # How to Run in VS Code using Conda
-# Activate Environment
+## Activate Environment
 ```
 conda activate yolo-image-search-gpu
 ```
-# Launch the Streamlit interface
+## Launch the Streamlit interface
 ```
 streamlit run app.py
 ```
-# The terminal will display and Open Browser:
+## The terminal will display and Open Browser:
 ```
 Local URL: http://localhost:8501
 ```
 # OUTPUT
-# UI Screenshot
+## UI Screenshot
 <img width="1219" height="576" alt="image" src="https://github.com/user-attachments/assets/8ee8a344-1d02-4109-8711-b99d6fe7c44b" />
 
-# Object Detection Output
+## Object Detection Output
 <img width="1078" height="611" alt="image" src="https://github.com/user-attachments/assets/f3c8306c-b9e4-41b8-9ee8-006682fa27f4" />
 <img width="1075" height="605" alt="image" src="https://github.com/user-attachments/assets/473f3f55-3d16-454d-abfd-465ec2de0757" />
 
