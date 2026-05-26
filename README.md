@@ -1,5 +1,4 @@
 # YOLOV11-Search-App
-# 🔍 YOLOV11 Search App
 
 # ABSTARCT
 YOLOV11 Search App is a Streamlit-based image search application that uses YOLOv11 object detection to analyze images and create a searchable gallery. It detects objects, stores results as JSON metadata, and lets users search images by object classes (e.g., person, car, apple, bed). Users can filter images containing single or multiple objects and control object count for quick dataset exploration and computer vision demos.
