@@ -57,7 +57,7 @@ conda install pytorch torchvision pytorch-cuda=12.4 -c pytorch -c nvidia
 # Step 4 – Install Project Dependencies
 pip install -r requirements.txt
 
-## How to Run in VS Code using Conda
+# How to Run in VS Code using Conda
 # Activate Environment
 conda activate yolo-image-search-gpu
 # Launch the Streamlit interface
